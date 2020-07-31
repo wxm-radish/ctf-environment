@@ -1,0 +1,27 @@
+pwntools:
+安装命令 ：pip install pwntools  基于python2
+
+gdb   动态调试工具
+
+pwndbg  gdb的插件  
+    安装方法：
+    git clone https://github.com/pwndbg/pwndbg
+    cd pwndbg
+    ./setup.sh 
+
+ROPgadget: 
+	https://github.com/JonathanSalwan/ROPgadget
+
+One_gadget:
+    apt-get install ruby 
+    apt-get install gem 
+    sudo gem install one_gadget 
+
+
+
+python
+汇编语言
+逆向功底
+PWN特定漏洞利用方法
+
+https://ctf-wiki.github.io/ctf-wiki/
